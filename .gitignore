@@ -1,3 +1,15 @@
 .build-tmp/
 build/
 *.apk.idsig
+node_modules/
+.next/
+.nuxt/
+dist/
+__pycache__/
+.pytest_cache/
+.cache/
+.coverage
+mysql-data/
+chromium-profile/
+.venv/
+target/
